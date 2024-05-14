@@ -1,6 +1,6 @@
 {
   "canisters": {
-    "generics_backend": {
+    "back": {
       "main": "src/generics_backend/main.mo",
       "type": "motoko"
     }
